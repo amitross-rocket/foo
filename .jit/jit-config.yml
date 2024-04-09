@@ -5,6 +5,3 @@ applications:
   exclude_paths: []
   target_url: https://platform.rocket.jitdev.io
   type: web
-
-
-  
